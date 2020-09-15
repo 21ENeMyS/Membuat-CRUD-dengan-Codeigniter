@@ -1,0 +1,8 @@
+<?= $this->extend('layout/template'); ?>
+<?= $this->Section('content'); ?>
+<div class="container">
+  <h2>Contac Me</h2>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Mollitia corrupti accusantium id earum eum dolorum quod facere! Neque sapiente ipsum iure facilis quibusdam odio, hic tempora eius excepturi saepe quo animi impedit. Beatae, perspiciatis deleniti? Sit expedita praesentium, placeat repellendus esse at nobis cum quisquam delectus consectetur tempora animi. Hic exercitationem unde possimus veniam alias illo. Eius dolorum sunt quia aperiam dolores obcaecati, omnis ex. Nulla sequi voluptatem corrupti minus beatae architecto, doloribus facilis earum animi consequuntur debitis, alias nisi doloremque totam minima. Sit repellendus eveniet ipsum vitae quis recusandae, voluptas ut enim ab veniam aut officia eaque, tenetur quia expedita impedit obcaecati quam vel repudiandae. Incidunt repudiandae itaque veniam debitis temporibus, sequi commodi architecto facere aliquam quis omnis eos voluptas perspiciatis modi beatae quaerat maiores vero officiis accusamus rerum voluptates quibusdam iure fuga. Perferendis obcaecati delectus cum. Ab molestias architecto, dignissimos libero, laudantium eos ipsam recusandae voluptas atque vel rem sed quam fuga! Aperiam, veniam. Aspernatur, consectetur? Debitis esse molestiae modi recusandae praesentium, rem facere, quod animi et, minus saepe officiis? Id aspernatur nemo quisquam cumque similique, consequuntur quasi iusto impedit architecto, totam consectetur atque. Natus voluptatibus consectetur sed non necessitatibus fugiat ratione eaque quisquam, ipsam fugit nobis quidem molestiae.</p>
+</div>
+
+<?= $this->endSection(); ?>
